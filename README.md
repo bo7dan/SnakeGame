@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io)](https://www.gnu.org)
+
 # 🐍 SnakeGame (Nokia 3310 Style)
 
 A simple and addictive "Snake" game written in **Java** using the **LibGDX** framework. The design is inspired by the iconic retro style of Nokia mobile phones.
@@ -28,3 +30,15 @@ A simple and addictive "Snake" game written in **Java** using the **LibGDX** fra
 1. Clone the repository:
    ```bash
    git clone https://github.com/bo7dan/SnakeGame.git
+
+   ## ⚖️ License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+- You are free to copy, modify, and distribute this software.
+- Any modifications or derivative works **must also be licensed under GPLv3**.
+- For more details, see the [LICENSE](LICENSE) file in this repository.
+
+---
+*This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.*
+
