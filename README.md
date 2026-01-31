@@ -30,6 +30,7 @@ A simple and addictive "Snake" game written in **Java** using the **LibGDX** fra
 1. Clone the repository:
    ```bash
    git clone https://github.com/bo7dan/SnakeGame.git
+   ```
 
    ## ⚖️ License
 
